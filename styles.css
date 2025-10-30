@@ -289,7 +289,6 @@ html {
 }
 @media (max-width: 1050px) {
   .portfolio-section{
-    border:1px solid red;
     height: 100vh;
   }
   .profile-pic > img {
