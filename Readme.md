@@ -45,7 +45,7 @@ It highlights my **skills, projects, and contact information** in a **responsive
 
 If you'd like to connect or collaborate, feel free to reach out!  
 📧 Email: hemantissar2001@email.com  
-🌐 Portfolio: [[your-live-demo-link.com](https://issarhemant.github.io/Portfolio-Site/)]
+🌐 Portfolio: (https://issarhemant.github.io/Portfolio-Site/)
 
 ---
 
